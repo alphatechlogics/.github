@@ -1,8 +1,4 @@
-# AlphaTech Logics
-
-**Website**: [alphatechlogics.com](https://alphatechlogics.com/)  
-**Instagram**: [@alphatech_logics](https://www.instagram.com/alphatech_logics/)  
-**LinkedIn**: [AlphaTech Logics LinkedIn](https://www.linkedin.com/company/alphatechlogics/posts/?feedView=all)
+# [AlphaTech Logics](https://alphatechlogics.com/)
 
 ---
 
