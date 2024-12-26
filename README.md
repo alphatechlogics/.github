@@ -1,4 +1,4 @@
-# ![AlphaTech Logics Logo](https://alphatechlogics.com/wp-content/uploads/2024/10/black_without_tagline.png)
+# ![AlphaTech Logics Logo]([https://alphatechlogics.com/wp-content/uploads/2024/10/black_without_tagline.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Falphatechlogics.com%2F&psig=AOvVaw31Iz8HofWlrshP5OaYWsI7&ust=1735328185307000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiBtbaXxooDFQAAAAAdAAAAABAK))
 
 # [AlphaTech Logics](https://alphatechlogics.com/)
 
